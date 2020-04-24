@@ -37,4 +37,4 @@ server {
 ```
 
 ### Explain
-Configure hosts and nginx as above, then switch devserver.sockpath
+Configure hosts and nginx as above, then switch devserver.sockPath

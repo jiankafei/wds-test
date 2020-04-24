@@ -6,6 +6,6 @@ module.exports = {
   devServer: {
     port: 9527,
     disableHostCheck: true,
-    sockPath: '/sockjs-msm', // Toggle this field
+    sockPath: '/sockjs-wds', // Toggle this field
   },
 };
