@@ -19,4 +19,5 @@ server {
 ```
 
 ### Explain
-Configure hosts and nginx as above, then switch devserver.sockPath
+Configure hosts and nginx as above, then switch devserver.sockPath.
+You can also use port access directly without nginx. Like "test.wds.com:9527"
